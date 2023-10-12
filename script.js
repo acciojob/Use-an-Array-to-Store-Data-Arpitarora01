@@ -1,2 +1,1 @@
-let yourArray = [23 , "Arpit" , True];
-console.log(yourArray);
+let yourArray = [23 , "Arpit" , true ,23 ,943];
